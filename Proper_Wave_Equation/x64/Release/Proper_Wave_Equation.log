@@ -1,0 +1,39 @@
+﻿  main_GUI.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\Filip\LittleHelp.h(109,39): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\Filip\LittleHelp.h(163,44): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\Filip\LittleHelp.h(250,23): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\Filip\LittleHelp.h(444,21): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\Filip\LittleHelp.h(611,21): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+D:\OneDrive - Uniwersytet Wrocławski\[AA] Fizyka\Rok IV\Sem II\Optyka\Zajęcia 3\Proper_Wave_Equation\main_GUI.cpp(357,129): warning C4244: "argument": konwersja z "double" do "uint8_t", możliwa utrata danych
+D:\OneDrive - Uniwersytet Wrocławski\[AA] Fizyka\Rok IV\Sem II\Optyka\Zajęcia 3\Proper_Wave_Equation\main_GUI.cpp(357,85): warning C4244: "argument": konwersja z "double" do "uint8_t", możliwa utrata danych
+D:\OneDrive - Uniwersytet Wrocławski\[AA] Fizyka\Rok IV\Sem II\Optyka\Zajęcia 3\Proper_Wave_Equation\main_GUI.cpp(357,43): warning C4244: "argument": konwersja z "double" do "uint8_t", możliwa utrata danych
+D:\OneDrive - Uniwersytet Wrocławski\[AA] Fizyka\Rok IV\Sem II\Optyka\Zajęcia 3\Proper_Wave_Equation\main_GUI.cpp(358,137): warning C4244: "argument": konwersja z "double" do "int32_t", możliwa utrata danych
+D:\OneDrive - Uniwersytet Wrocławski\[AA] Fizyka\Rok IV\Sem II\Optyka\Zajęcia 3\Proper_Wave_Equation\main_GUI.cpp(358,112): warning C4244: "argument": konwersja z "double" do "int32_t", możliwa utrata danych
+D:\OneDrive - Uniwersytet Wrocławski\[AA] Fizyka\Rok IV\Sem II\Optyka\Zajęcia 3\Proper_Wave_Equation\main_GUI.cpp(358,65): warning C4244: "argument": konwersja z "double" do "int32_t", możliwa utrata danych
+D:\OneDrive - Uniwersytet Wrocławski\[AA] Fizyka\Rok IV\Sem II\Optyka\Zajęcia 3\Proper_Wave_Equation\main_GUI.cpp(358,37): warning C4244: "argument": konwersja z "double" do "int32_t", możliwa utrata danych
+D:\OneDrive - Uniwersytet Wrocławski\[AA] Fizyka\Rok IV\Sem II\Optyka\Zajęcia 3\Proper_Wave_Equation\main_GUI.cpp(374,25): warning C4244: "argument": konwersja z "T" do "std::array<std::array<cell,216>,384>::size_type", możliwa utrata danych
+          with
+          [
+              T=double
+          ]
+D:\OneDrive - Uniwersytet Wrocławski\[AA] Fizyka\Rok IV\Sem II\Optyka\Zajęcia 3\Proper_Wave_Equation\main_GUI.cpp(374,32): warning C4244: "argument": konwersja z "T" do "std::array<cell,216>::size_type", możliwa utrata danych
+          with
+          [
+              T=double
+          ]
+D:\OneDrive - Uniwersytet Wrocławski\[AA] Fizyka\Rok IV\Sem II\Optyka\Zajęcia 3\Proper_Wave_Equation\main_GUI.cpp(375,25): warning C4244: "argument": konwersja z "T" do "std::array<std::array<cell,216>,384>::size_type", możliwa utrata danych
+          with
+          [
+              T=double
+          ]
+D:\OneDrive - Uniwersytet Wrocławski\[AA] Fizyka\Rok IV\Sem II\Optyka\Zajęcia 3\Proper_Wave_Equation\main_GUI.cpp(375,32): warning C4244: "argument": konwersja z "T" do "std::array<cell,216>::size_type", możliwa utrata danych
+          with
+          [
+              T=double
+          ]
+  Trwa generowanie kodu
+  2 of 1376 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Proper_Wave_Equation.vcxproj -> D:\OneDrive - Uniwersytet Wrocławski\[AA] Fizyka\Rok IV\Sem II\Optyka\Zajęcia 3\Proper_Wave_Equation\x64\Release\Proper_Wave_Equation.exe
